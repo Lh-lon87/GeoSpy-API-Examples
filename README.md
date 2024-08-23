@@ -112,3 +112,6 @@ For any inquiries or support questions, please contact us at support@graylark.io
 We welcome contributions to this repository! Please feel free to submit pull requests with enhancements, new examples, or bug fixes.
 
 Thank you for exploring the GeoSpy AI API with us!
+
+BASE_URL = "https://dev.geospy.ai"  # Base URL of the GeoSpy API
+
